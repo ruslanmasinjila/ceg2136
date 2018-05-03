@@ -1,0 +1,88 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+
+
+WIDTH=8;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   20;
+	001  :   A2;
+	[002..003]  :   10;
+	004  :   60;
+	[005..00F]  :   00;
+	010  :   04;
+	011  :   A4;
+	012  :   82;
+	013  :   A0;
+	014  :   02;
+	015  :   A3;
+	016  :   08;
+	017  :   A4;
+	018  :   20;
+	019  :   A4;
+	01A  :   10;
+	01B  :   25;
+	01C  :   84;
+	01D  :   A0;
+	01E  :   88;
+	01F  :   A1;
+	020  :   04;
+	021  :   A1;
+	022  :   50;
+	023  :   08;
+	024  :   A1;
+	025  :   04;
+	026  :   A0;
+	027  :   50;
+	028  :   08;
+	029  :   A0;
+	02A  :   10;
+	[02B..07F]  :   00;
+	080  :   21;
+	081  :   B5;
+	082  :   37;
+	083  :   08;
+	084  :   5C;
+	085  :   84;
+	086  :   A1;
+	087  :   1D;
+	088  :   72;
+	089  :   FF;
+	08A  :   F6;
+	08B  :   43;
+	08C  :   03;
+	08D  :   A9;
+	08E  :   D4;
+	08F  :   19;
+	090  :   31;
+	091  :   D9;
+	092  :   47;
+	093  :   82;
+	094  :   14;
+	095  :   52;
+	096  :   07;
+	097  :   CA;
+	098  :   04;
+	[099..09F]  :   00;
+	0A0  :   80;
+	0A1  :   F8;
+	0A2  :   E7;
+	0A3  :   FF;
+	[0A4..0FF]  :   00;
+END;

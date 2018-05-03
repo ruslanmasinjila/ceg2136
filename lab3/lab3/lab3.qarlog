@@ -1,0 +1,33 @@
+Quartus II Archive log --	/home/ruslan/ceg2136/lab3/lab3/lab3.qarlog
+
+Archive:	/home/ruslan/ceg2136/lab3/lab3/lab3.qar
+Date:		Fri Oct 16 14:39:11 2015
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+/home/ruslan/altera/13.0sp1/quartus/linux64/assignment_defaults.qdf
+/home/ruslan/ceg2136/lab3/lab3/AC4bits.bdf
+/home/ruslan/ceg2136/lab3/lab3/ALU.bdf
+/home/ruslan/ceg2136/lab3/lab3/ALU.vwf
+/home/ruslan/ceg2136/lab3/lab3/LSC.vwf
+/home/ruslan/ceg2136/lab3/lab3/LSC1bit.bdf
+/home/ruslan/ceg2136/lab3/lab3/LSC4bits.bdf
+/home/ruslan/ceg2136/lab3/lab3/fulladder1bit.bdf
+/home/ruslan/ceg2136/lab3/lab3/fulladder4bits.bdf
+/home/ruslan/ceg2136/lab3/lab3/incremental_db/compiled_partitions/lab3.db_info
+/home/ruslan/ceg2136/lab3/lab3/lab3.qpf
+/home/ruslan/ceg2136/lab3/lab3/lab3.qsf
+/home/ruslan/ceg2136/lab3/lab3/lab3top.bdf
+/home/ruslan/ceg2136/lab3/lab3/operand1bit.bdf
+/home/ruslan/ceg2136/lab3/lab3/operand4bits.bdf
+/home/ruslan/ceg2136/lab3/lab3/register4bits.bdf
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Oct 16 14:52:22 2015
+Source archive file:	/home/ruslan/ceg2136/lab3/lab3/lab3.qar
+Archive was extracted into	/home/ruslan/ceg2136/lab3/lab3/lab3_restored/
+		 - successfully.
